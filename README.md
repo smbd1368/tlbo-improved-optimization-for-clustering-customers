@@ -1,8 +1,7 @@
 ![image](https://github.com/smbd1368/tlbo-improved-optimization-for-clustering-customers/assets/3113137/9048e3e9-d197-4194-9e10-168f636d259f)
-Clusters	Number of cluser	P	M	F	R	L	Rows	CLV
-Cluster1	180	356	687	97	3750.4	183.6	68	414.319
-Cluster2	790	36	695	20	640.76	102	740	115,27
-Clsuter3	30	369	693	741	16389.74	178.2	451	1532,7
+
+3 centers of different type customers
+![image](https://github.com/smbd1368/tlbo-improved-optimization-for-clustering-customers/assets/3113137/e18061ad-cda6-483d-bb84-a0d454a32546)
 
 
 
